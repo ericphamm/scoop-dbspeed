@@ -1,12 +1,12 @@
 {
-    "version": "0.10.0-rc.0",
+    "version": "0.10.0-rc.1",
     "description": "Keyboard-first database client, a fork of DBFlux",
     "homepage": "https://github.com/ericphamm/dbflux",
     "license": "MIT|Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ericphamm/dbflux/releases/download/v0.10.0-rc.0/dbflux-windows-amd64.zip",
-            "hash": "bb9f729f68db7992767af6881f4de313016f5099d434e665cd0328d6e6e8abab"
+            "url": "https://github.com/ericphamm/dbflux/releases/download/v0.10.0-rc.1/dbflux-windows-amd64.zip",
+            "hash": "526369bc0a911c92773afcd24a52eff737a96c4d049f8b83355f70d807b84376"
         }
     },
     "bin": [
